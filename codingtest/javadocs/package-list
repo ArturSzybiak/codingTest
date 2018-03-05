@@ -1,0 +1,8 @@
+com.arturszybiak.codingtest
+com.arturszybiak.codingtest.controllers
+com.arturszybiak.codingtest.dto
+com.arturszybiak.codingtest.enums
+com.arturszybiak.codingtest.facade
+com.arturszybiak.codingtest.testutils
+com.arturszybiak.codingtest.utils
+com.arturszybiak.codingtestclient
